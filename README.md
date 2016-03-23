@@ -1,4 +1,4 @@
-# Workshop for mbot PI
+# Workshop for mBot
 
 This workshop was put together by Simon Rininsland and Stefan Höhn
 
