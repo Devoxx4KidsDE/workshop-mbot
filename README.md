@@ -1,6 +1,10 @@
-# Workshop for mBot
+![Devoxx4Kids](./logo.jpg)
 
-This workshop was put together by Simon Rininsland and Stefan Höhn
+
+
+# ![Devoxx4Kids](./mbot-left.jpg)  Workshop for mBot  ![Devoxx4Kids](./mbot-right.jpg)
+
+This workshop was put together by Simon Rininsland and Stefan HÃ¶hn
 
 We chose the mBot as a robot for the devoxx4Kids because it provides a lot of actors and sensors while being a small robot that is still at a price that would be affordable for parents whose kids fell in love with the robot after the workshop. Programming it is easy as it uses a Scratch-based GUI that allows quick learning for kids. Finally mBot looks cute and is fun to work with.
 
