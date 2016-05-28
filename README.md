@@ -8,7 +8,7 @@ This workshop was put together by Simon Rininsland and Stefan Höhn
 
 We chose the [mbot](http://makeblock.com/mbot-stem-educational-robot-kit-for-kids/) as a robot for the devoxx4Kids because it provides a lot of actors and sensors while being a small robot that is still at a price that would be affordable for parents whose kids fell in love with the robot after the workshop. Programming it is easy as it uses a Scratch-based GUI that allows quick learning for kids. Finally mBot looks cute and is fun to work with.
 
-The workshop only consists of the presentation. Currently only the German version is available but we will soon provide the english one.
+The workshop only consists of the presentation. Currently the english version - even though translated and available -lacks a few translated english graphics but you should be able to deal with it until it has been finalized by us (feel free to contribute)...
 
 The workshop was created to be finished within roughly 80-90 minutes.
 
